@@ -10,7 +10,7 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 
 <img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg">
 
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
 
