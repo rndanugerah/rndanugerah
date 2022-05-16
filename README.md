@@ -1,5 +1,3 @@
-<img align='right' src = "https://git-hub-stats-visualizations-transparent-mypumpkinz.vercel.app">
-
 # Hi folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Randy 🧑🏻
 
 <p align="justify">
@@ -8,7 +6,8 @@ I'm student from the University of Muhammadiyah Malang majoring in informatics e
 I'm a passionate and enthusiastic software engineer with a commitment to designing and developing scalable and efficient software and has a deep interest in learning the latest technology be it backend or machine learning.
 </p>
 
-<img align='right' src = "https://git-hub-stats-visualizations-transparent-mypumpkinz.vercel.app/"> 
+![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/languages.svg)
 
 ## 🔍 You Can Find Me at
 
