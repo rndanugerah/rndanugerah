@@ -6,8 +6,8 @@ I'm student from the University of Muhammadiyah Malang majoring in informatics e
 I'm a passionate and enthusiastic software engineer with a commitment to designing and developing scalable and efficient software and has a deep interest in learning the latest technology be it backend or machine learning.
 </p>
 
-![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/overview.svg)
+![](https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg#gh-light-mode-only)
 
 
 ## 🔍 You Can Find Me at
