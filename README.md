@@ -24,8 +24,8 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg" align="left" alt="go" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="docker" height='42px'/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" align="left" alt="kubernetes" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<br><br><br><br>
+
+<br><br>
 
 ## 🔍 You Can Find Me at
 
