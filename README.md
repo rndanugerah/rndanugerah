@@ -1,6 +1,6 @@
 <img align='right' src = "https://github.com/MRandyAnugerah/github-stats-transparent/blob/output/generated/overview.svg">
 
-## Hi folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Randy 🧑🏻
+# Hi folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Randy 🧑🏻
 
 <p align="justify">
 I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.
