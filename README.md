@@ -7,7 +7,8 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 </p>
 
 ![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/MyPumpkinz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ## 🔍 You Can Find Me at
 
