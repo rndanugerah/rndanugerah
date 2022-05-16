@@ -5,7 +5,7 @@
 <p align="justify">
 I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.
   
-I'm a passionate and enthusiastic software engineer with a commitment to designing and developing scalable and efficient software and has a deep interest in learning the latest technology be it backend or machine learning.
+I'm a passionate and enthusiastic software engineer with a commitment to designing and efficient software and has a deep interest in learning the latest technology be it backend or machine learning.
 </p>
 
 <img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg">
