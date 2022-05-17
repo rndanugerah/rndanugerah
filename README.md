@@ -3,7 +3,7 @@
 # Hi folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Randy 🧑
 
 <p align="justify">
-I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.<br> 
+I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.<br><br> 
 I'm a passionate and enthusiastic software engineer with a commitment to designing and efficient software and has a deep interest in learning the latest technology be it backend or machine learning.
 </p>
 
