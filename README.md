@@ -5,9 +5,8 @@
 <p align="justify">
 I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.<br><br> 
 I'm a passionate and enthusiastic software engineer with a commitment to designing and efficient software and has a deep interest in learning the latest technology be it backend or machine learning.
+<img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg">
 </p>
-
-<img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg"><br>
 
 ## 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
