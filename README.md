@@ -9,21 +9,20 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 </p>
 
 ## 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
+  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></a>
+  <a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="42px"/> </a> 
+  <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="42px"/> </a> 
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" align="left" alt="bootstrap" height='42px'/> </a>
+  <a href="https://www.ruby-lang.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" height="42px"/> </a>
+  <a href="https://rubyonrails.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rubyonrails" height="42px"/> </a> 
+<!--   <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" align="left" alt="go" height='42px'/> </a> -->
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" align="left" alt="docker" height='42px'/> </a>
+<!--   <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" align="left" alt="kubernetes" height='42px'/> </a> -->
+</p>
 
-<a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a> 
-<a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" align="left" alt="bootstrap" height='42px'/> </a>
-
-<a href="https://www.ruby-lang.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/ruby/ruby.svg" alt="ruby" height="42px"/> </a>
-<a href="https://rubyonrails.org/" target="_blank"> <img align="left" src="https://github.com/MyPumpkinz/MyPumpkinz/blob/main/icons/RubyOnRails.svg" alt="rubyonrails" height="42px"/> </a> 
-
-<!-- <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg" align="left" alt="go" height='42px'/> </a> -->
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="docker" height='42px'/> </a>
-<!-- <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" align="left" alt="kubernetes" height='42px'/> </a> -->
-
-<br><br><br><br>
+<br><br>
 
 ## 🔍 You Can Find Me at
 
