@@ -1,6 +1,6 @@
 <img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/overview.svg">
 
-# Hi folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Randy :moyai:
+# Hi folks <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-attention-gif.gif" width="30px"> I'm Randy :technologist:
 
 <p align="left">
 I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.
@@ -9,7 +9,7 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 <img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg">
 </p>
 
-## :technologist: Languages and Tools:
+## :computer: Languages and Tools:
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></a>
@@ -33,7 +33,7 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 
 <br><br>
 
-### :mag: You Can Find Me at:
+### <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-beers-gif.gif" width="40px"> You Can Find Me at:
 <p>
   <a href="https://www.linkedin.com/in/mrandyanugerah/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/anaknyapapaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
