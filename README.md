@@ -1,6 +1,6 @@
 <img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/overview.svg">
 
-# Hi folks <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-attention-gif.gif" width="30px"> I'm Randy :technologist:
+# Hi everyone <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-attention-gif.gif" width="30px"> I'm Randy :technologist:
 
 <p align="left">
 I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.
