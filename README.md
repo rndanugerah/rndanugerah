@@ -24,7 +24,7 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" height='42px'/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" align="left" alt="sqlite" height='42px'/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" align="left" alt="docker" height='42px'/> </a>
-<!--   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" align="left" alt="kubernetes" height='42px'/> </a> -->
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" align="left" alt="kubernetes" height='42px'/> </a>
 <img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg">
 <br><br><br>
 <!--   <a href="https://cloud.google.com/gcp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" align="left" alt="googlecloud" height='42px'/> </a> -->
