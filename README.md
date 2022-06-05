@@ -35,7 +35,7 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
 
 <br><br>
 
-### <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-beers-gif.gif" width="40px" height="42px"> You Can Find Me at:
+### <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-dancer-gif.gif" width="40px" height="42px"> You Can Find Me at:
 <p>
   <a href="https://www.linkedin.com/in/mrandyanugerah/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/anaknyapapaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
