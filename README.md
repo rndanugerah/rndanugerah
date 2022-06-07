@@ -16,22 +16,21 @@ I'm a passionate and enthusiastic software engineer with a commitment to designi
   <a href="https://jupyter.org/" target="_blank"><img align="left" alt="jupyter" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"></a>
   <a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="42px"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="42px"/> </a> 
-  <a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="42px"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" align="left" alt="bootstrap" height='42px'/> </a><br><br><br>
+  <a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="42px"/> </a> 
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" align="left" alt="bootstrap" height='42px'/> </a> <br><br><br>
   <a href="https://www.ruby-lang.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" height="42px"/> </a>
   <a href="https://rubyonrails.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rubyonrails" height="42px"/> </a> 
-  <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-line.svg" align="left" alt="golang" height='42px'/> </a>
+  <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" align="left" alt="golang" height='42px'/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" height='42px'/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" align="left" alt="sqlite" height='42px'/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" align="left" alt="docker" height='42px'/> </a>
-  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" align="left" alt="kubernetes" height='42px'/> </a>
-<img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg">
-<br><br><br>
-<!--   <a href="https://cloud.google.com/gcp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" align="left" alt="googlecloud" height='42px'/> </a> -->
-  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" align="left" alt="ubuntu" height='42px'/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" align="left" alt="docker" height='42px'/> </a> 
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" align="left" alt="ubuntu" height='42px'/> </a> <br><br><br>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" align="left" alt="vscode" height='42px'/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
 </p>
+<!-- <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" align="left" alt="kubernetes" height='42px'/> </a>
+<img align='right' src = "https://raw.githubusercontent.com/MyPumpkinz/copy-github-stats./master/generated/languages.svg"> -->
+<!--   <a href="https://cloud.google.com/gcp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" align="left" alt="googlecloud" height='42px'/> </a> -->
 
 <br><br>
 
