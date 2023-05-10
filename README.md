@@ -2,12 +2,12 @@
 
 # Hi Everyone <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-attention-gif.gif" width="30px" height="42px"> I'm Randy :technologist:
 
-<p align="left">
-I'm student from the University of Muhammadiyah Malang majoring in informatics engineering and has a passion related to informatics and technology.
+<p align="justify">
+As a recent graduate of the University of Muhammadiyah Malang with a Bachelor's degree in Informatics Engineering and a GPA of 3.86, I have completed relevant coursework in Data Structures and Algorithms, Software Engineering, Machine Learning, and Database Systems.
 <br><br>
-I'm a passionate and enthusiastic software engineer with a commitment to learning to design efficient software and has a deep interest in learning the technology be it backend or machine learning. 
+I am adept at handling various daily tasks competently and welcome any recommendations that challenge me to maintain a growth mindset. My career aspiration is to become a software engineer/developer.
 <br><br>
-<img align='right' src="http://github-readme-streak-stats.herokuapp.com?user=MyPumpkinz&theme=synthwave&date_format=j%20M%5B%20Y%5D&fire=DD0000&stroke=000000&ring=FF6C51&sideLabels=000000&currStreakLabel=000000&sideNums=000000&background=FFFFFF&currStreakNum=000000&dates=DD0000&border=A4A4A4" width="42%">
+<img align='right' src="http://github-readme-streak-stats.herokuapp.com?user=rndanugerah&theme=synthwave&date_format=j%20M%5B%20Y%5D&fire=DD0000&stroke=000000&ring=FF6C51&sideLabels=000000&currStreakLabel=000000&sideNums=000000&background=FFFFFF&currStreakNum=000000&dates=DD0000&border=A4A4A4" width="42%">
 And I'm still learning how to properly document what I do with my code in Readme.
 </p>
 
