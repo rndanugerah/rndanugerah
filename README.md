@@ -29,8 +29,9 @@ And I'm still learning how to properly document what I do with my code in Readme
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" align="left" alt="ubuntu" height='42px'/> </a> <br><br><br>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" align="left" alt="vscode" height='42px'/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
-  <a href="#/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
+  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
+  <a href="#/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" align="left" alt="git" height='42px'/> </a>
+  <a href="#/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" align="left" alt="git" height='42px'/> </a>
 </p>
 <!-- <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" align="left" alt="kubernetes" height='42px'/> </a>
 -->
